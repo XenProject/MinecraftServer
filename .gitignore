@@ -1,11 +1,13 @@
 .mixin.out
 
 config
+!config
+config/*
 !config/ftbutilities.cfg
 !config/ftblib.cfg
 !config/quickleafdecay.cfg
-
-local
+!config/enderzoo/
+!config/IC2.ini
 
 logs
 java-test.log
