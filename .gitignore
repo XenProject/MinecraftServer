@@ -1,0 +1,16 @@
+.mixin.out
+
+config
+!config/ftbutilities.cfg
+!config/ftblib.cfg
+!config/quickleafdecay.cfg
+
+local
+
+logs
+java-test.log
+usercache.json
+
+journeymap
+world
+/OpenComputersMod-*
