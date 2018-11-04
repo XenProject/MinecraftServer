@@ -1,7 +1,5 @@
 .mixin.out
 
-config
-!config
 config/*
 !config/ftbutilities.cfg
 !config/ftblib.cfg
