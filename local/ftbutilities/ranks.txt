@@ -14,4 +14,4 @@ example.permission: true
 example.other_permission: false
 
 [admin is default_op_rank]
-ftbutilities.chat.name.color: "dark_green"
+example.other_permission: true
