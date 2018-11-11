@@ -1,15 +1,12 @@
 .mixin.out
-
-config/*
-!config/ftbutilities.cfg
-!config/ftblib.cfg
-!config/quickleafdecay.cfg
-!config/enderzoo/
-!config/IC2.ini
+*.log
 
 logs
 java-test.log
 usercache.json
+whitelist.json
+banned-ips.json
+banned-players.json
 
 journeymap
 world
