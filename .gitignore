@@ -11,5 +11,14 @@ pregenData.json
 usercache.json
 usernamecache.json
 whitelist.json
+backups
+local/ftbutilities/backups.json
+
+config/IC2.cfg
+config/enderio
+config/minetogether.cfg
+config/opencomputers
+local/ftbutilities
+
 
 *.log
