@@ -19,6 +19,7 @@ config/enderio
 config/minetogether.cfg
 config/opencomputers
 local/ftbutilities
+/OpenComputersMod-*
 
 
 *.log

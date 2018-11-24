@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "99417370-7c17-39ad-92f4-2d890ddeedee",
+    "name": "Xen",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

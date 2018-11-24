@@ -7,4 +7,4 @@ set FORGEJAR=FTBserver-1.12.2-14.23.5.2768-universal.jar
 
 rem can be changed by user
 set MAX_RAM=2048M
-set JAVA_PARAMETERS=-XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:+CMSClassUnloadingEnabled -XX:ParallelGCThreads=5 -XX:MinHeapFreeRatio=5 -XX:MaxHeapFreeRatio=10 -Dfml.readTimeout=60
+set JAVA_PARAMETERS=-XX:+UseParNewGC -XX:+CMSIncrementalPacing -XX:+CMSClassUnloadingEnabled -XX:ParallelGCThreads=5 -XX:MinHeapFreeRatio=5 -XX:MaxHeapFreeRatio=10 -Dfml.readTimeout=900
